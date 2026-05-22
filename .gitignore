@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+.idea/
+*.pyc
+allure-results/
+generated/
+postgres_data/
